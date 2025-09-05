@@ -47,8 +47,9 @@ Prediction system for new input text
 | N/S       | 66.7%    |
 | T/F       | 77%      |
 | J/P       | 54%      |
-T/F dimension shows the best prediction accuracy
 
+
+T/F dimension shows the best prediction accuracy
 J/P dimension is more challenging
 
 
