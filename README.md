@@ -49,7 +49,7 @@ Prediction system for new input text
 | J/P       | 54%      |
 
 
-T/F dimension shows the best prediction accuracy
+T/F dimension shows the best prediction accuracy/
 J/P dimension is more challenging
 
 
